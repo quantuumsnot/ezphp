@@ -1,7 +1,4 @@
 ezphp
-installer
-server
-ezphp.exe
-installer.exe
-server.exe
-dist
+public_html
+ezphp.log
+php-*/
